@@ -1,0 +1,6 @@
+br/com/ourogourmet/ouro/gourmet/entities/Usuario.class
+br/com/ourogourmet/ouro/gourmet/OuroGourmetApplication.class
+br/com/ourogourmet/ouro/gourmet/services/UsuarioService.class
+br/com/ourogourmet/ouro/gourmet/repositories/UsuarioRepository.class
+br/com/ourogourmet/ouro/gourmet/controllers/UsuarioController.class
+br/com/ourogourmet/ouro/gourmet/repositories/UsuarioRepositoryImp.class

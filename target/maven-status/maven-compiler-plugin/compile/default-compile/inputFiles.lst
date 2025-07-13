@@ -1,0 +1,6 @@
+/home/caio.y@sp01.local/dev/ouro-gourmet/src/main/java/br/com/ourogourmet/ouro/gourmet/OuroGourmetApplication.java
+/home/caio.y@sp01.local/dev/ouro-gourmet/src/main/java/br/com/ourogourmet/ouro/gourmet/controllers/UsuarioController.java
+/home/caio.y@sp01.local/dev/ouro-gourmet/src/main/java/br/com/ourogourmet/ouro/gourmet/entities/Usuario.java
+/home/caio.y@sp01.local/dev/ouro-gourmet/src/main/java/br/com/ourogourmet/ouro/gourmet/repositories/UsuarioRepository.java
+/home/caio.y@sp01.local/dev/ouro-gourmet/src/main/java/br/com/ourogourmet/ouro/gourmet/repositories/UsuarioRepositoryImp.java
+/home/caio.y@sp01.local/dev/ouro-gourmet/src/main/java/br/com/ourogourmet/ouro/gourmet/services/UsuarioService.java
